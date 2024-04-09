@@ -17,16 +17,10 @@ Pursuing MS in Data Science
 
 March 2023 — Present
 
- * Utilize Microsoft SQL Server for data input and querying, ensuring the maintenance of complex databases, leading to enhanced efficiency and a 60% reduction in data processing time.
- * Developed data reports and dashboards to deliver interactive graphical representations of financial data, consistently meeting deadlines.
- *	Performed internal audit, quality assurance using statistical method to maintain data integrity and quality of test methods.
 
 **Math and Science Tutor •	 Norco City College, Norco**
 
 June 2018 - June 2020
- *	Collaborated closely with over 80 students weekly to complete homework assignments, identifying and addressing lagging skills to correct weaknesses.
- *	Offered comprehensive support by instilling helpful study habits and exam strategies, contributing significantly to students' academic success.
- *	Assisted with test preparation, homework help, study skills, and improved notetaking.
 
 ## Projects
 
