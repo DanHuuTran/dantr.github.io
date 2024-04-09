@@ -1,5 +1,7 @@
-title: Dan Tran
-logo: Image/logo.jpg
-#description: 
+title: "Dan Tran Portfolio"
+logo: "Image/logo.jpg"
+description: |
+  - dhtran1220@gmail.com
+  - (951) 336 - 9144
 show_downloads: true
 theme: jekyll-theme-minimal
