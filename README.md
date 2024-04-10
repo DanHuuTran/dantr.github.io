@@ -28,7 +28,8 @@ June 2018 - June 2020
 
 The [Life Science Laboratory Management System](https://github.com/DanHuuTran/Life-Science-Laboratory-Management-System) is a SQL Server Management System database for managing various aspects of a laboratory, including sample tracking, test management, and inventory management. This project is inspired by my day-to-day task as a Laboratory Data Analyst
 
-![Database](https://github.com/DanHuuTran/danth.github.io/assets/133534096/210b93b6-d06b-438c-8b12-a22dfee3da95)
+![SQL](https://github.com/DanHuuTran/dantr.github.io/assets/133534096/6af3a403-2eb9-4553-a15e-5d4b60e8ec01)
+
 
 
 This project can be used as a SQL practice for beginner data analysts to hone their SQL query skills. The datasets in this  database is generated using Python library Faker. All the data files and codes are under my Github repository.
@@ -43,6 +44,6 @@ This simple [Real Estate Analysis](https://github.com/DanHuuTran/RealEstateProje
 
 The [Blue Book for Bulldozers](https://github.com/DanHuuTran/Prediction-With-ML) is a Kaggle competition lauched in 2013 that involves exploring and predicting the sale prices of bulldozers. The model used for predicting the prices in this project is Random Forest Regressor from Scikit-Learn.
 
-![bulldozer](https://github.com/DanHuuTran/danth.github.io/assets/133534096/696e611a-26ed-4bf8-a840-008637853c65)
+![bulldozer](https://github.com/DanHuuTran/dantr.github.io/assets/133534096/c0f9df9e-aff3-4aa0-9858-2786a99d5698)
 
 
