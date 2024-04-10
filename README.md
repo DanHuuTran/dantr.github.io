@@ -36,8 +36,11 @@ This project can be used as a SQL practice for beginner data analysts to hone th
 
 ### Real Estate Analysis
 
+
+
+This simple [Real Estate Analysis](https://github.com/DanHuuTran/RealEstateProject/tree/main) project focused on real estate in a Northeastern U.S. state. The goal of this project is to explore and analyze real estate data to gain insights into market trends, property values, and other relevant factors.
+
 ![Report](https://github.com/DanHuuTran/RealEstateProject/assets/133534096/50c1930a-7e69-43ac-826a-985cbd7df494)
-This simple [Real Estate Analysis](https://github.com/DanHuuTran/RealEstateProject/blob/main/README.md) project focused on real estate in a Northeastern U.S. state. The goal of this project is to explore and analyze real estate data to gain insights into market trends, property values, and other relevant factors.
 
 
 ### Blue Book for Bulldozers
