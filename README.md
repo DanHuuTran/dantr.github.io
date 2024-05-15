@@ -13,7 +13,7 @@ Pursuing MS in Data Science
 
 ## Work Expericence
 
-**Data Analyst •	IEH Laboratories and Consulting Group, Fresno**
+**Laboratory Analyst •	IEH Laboratories and Consulting Group, Fresno**
 
 March 2023 — Present
 
