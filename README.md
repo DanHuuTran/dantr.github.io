@@ -3,7 +3,6 @@ Technical Skill: SQL, Python, Excel, Power BI, Tableau
 ## Education
 BS, Applied Mathematics  •	 Fresno State University
 
-Pursuing MS in Data Science
 
 ## Certification
  * Google Data Analytics Certificate
@@ -15,7 +14,13 @@ Pursuing MS in Data Science
 
 **Laboratory Analyst •	IEH Laboratories and Consulting Group, Fresno**
 
-March 2023 — Present
+March 2023 - Present
+
+
+
+**Restaurant Manager • Boba Pub, Fresno**
+
+June 2021 - December 2022
 
 
 **Math and Science Tutor •	 Norco City College, Norco**
@@ -47,7 +52,7 @@ This simple [Real Estate Analysis](https://github.com/DanHuuTran/RealEstateProje
 
 The [Blue Book for Bulldozers](https://github.com/DanHuuTran/Prediction-With-ML) is a Kaggle competition lauched in 2013 that involves exploring and predicting the sale prices of bulldozers. The model used for predicting the prices in this project is Random Forest Regressor from Scikit-Learn.
 
-![bulldozer](https://github.com/DanHuuTran/dantr.github.io/assets/133534096/c0f9df9e-aff3-4aa0-9858-2786a99d5698)
+![Screenshot 2024-05-28 221022](https://github.com/DanHuuTran/Prediction-With-ML/assets/133534096/96f071b4-73eb-4ff1-b781-40868f246a10)
 
 
 ### Stock Market Monitor
